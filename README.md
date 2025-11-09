@@ -75,5 +75,12 @@
 ---
 
 
+Test Artifacts
+
+Web Shop Testing - https://bit.ly/4nMajWj
+API Testing - https://bit.ly/3Ximf7h
+MySQL - https://bit.ly/3WMDJZn
+Android App Testing - https://bit.ly/486r2yY
+
 
 
