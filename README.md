@@ -7,13 +7,13 @@
 
 ### 👨‍💻 About me:
 
-Я начинающий тестировщик. Здесь я делюсь работами по тестированию веб и мобильных приложений, разработанных в рамках курсов и личных проектов. Вот мое [резюме](https://docs.google.com/document/d/1xJmnBM1qdeucj4n27X7hDLnLL7GeJsGp/edit)
+I'm a beginner tester. Here I share my work on testing web and mobile apps developed as part of courses and personal projects. Here's my [CV](https://docs.google.com/document/d/1xJmnBM1qdeucj4n27X7hDLnLL7GeJsGp/edit)
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:forik26@gmail.com)
+- 📫 Feel free to connect with me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:forik26@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="(https://t.me/Alsu_Dimanova)" target="_blank">
@@ -23,7 +23,7 @@
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Test documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web application testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -46,7 +46,7 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile application testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -57,7 +57,7 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Working with databases:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -66,7 +66,7 @@
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Working with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
