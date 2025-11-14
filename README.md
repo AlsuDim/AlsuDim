@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About me:
 
-![Motivational Gif](https://media.giphy.com/media/xT9IglWTR7dNpa7U0E/giphy.gif)
 Я начинающий тестировщик. Здесь я делюсь работами по тестированию веб и мобильных приложений, разработанных в рамках курсов и личных проектов. Вот мое [резюме](https://docs.google.com/document/d/1xJmnBM1qdeucj4n27X7hDLnLL7GeJsGp/edit)
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:forik26@gmail.com)
